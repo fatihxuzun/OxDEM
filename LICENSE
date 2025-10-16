@@ -11,7 +11,7 @@ to do so, subject to the following conditions:
 
 1. This permission applies to all source files, scripts, and build
    configurations included in this repository, except for proprietary
-   precompiled components located under the `lib/` directory (e.g. `libOxDEM.a`
+   precompiled components located under the `lib/` directory (e.g. `OxDEM_library.o`
    or related binaries).
 
 2. The proprietary precompiled components are distributed in binary form for
